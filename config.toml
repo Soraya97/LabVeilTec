@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://soraya97.github.io/LabVeilTec/"
 languageCode = "en-us"
 title = "Veille UX Design"
 theme = "hugo-theme-blueberry-detox" 
