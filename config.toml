@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Veille UX Design"
+theme = "hugo-theme-blueberry-detox" 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
